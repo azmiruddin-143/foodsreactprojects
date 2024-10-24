@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/84Zfw2n/1.jpg",
+      "title": "Cheese Burger",
+      "time": 15,
+      "calories": 450
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/6N2dgnZ/2.png",
+      "title": "Pepperoni Pizza",
+      "time": 20,
+      "calories": 600
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/RzGzcPg/3.png",
+      "title": "Caesar Salad",
+      "time": 10,
+      "calories": 250
+    }
+  ]
+  
